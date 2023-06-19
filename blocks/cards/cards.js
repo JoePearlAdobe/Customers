@@ -5,7 +5,7 @@ import { createOptimizedPicture } from '../../scripts/lib-franklin.js';
 export default function decorate(block) {
   /* change to ul, li */
 
-  console.log("hello world");
+  console.log("hello - cards");
 
 
 
